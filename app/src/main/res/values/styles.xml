@@ -10,6 +10,7 @@
         <item name="colorPrimary">@color/twitter_blue</item>
         <item name="colorPrimaryDark">@color/twitter_blue_fill_pressed</item>
         <item name="colorAccent">@color/inline_action</item>
+        <item name="android:textColorLink">@color/medium_green</item>
     </style>
 
     <!-- Application theme. -->
